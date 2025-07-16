@@ -7,12 +7,6 @@ Supports real-time webcam input and file upload.
 
 ---
 
-## 🚀 Live Demo  
-🟢 **[👉 Click here to try the app](https://your-deployment-link)**  
-> Replace with your Hugging Face Spaces or Streamlit Cloud link.
-
----
-
 ## 📸 App Features
 
 - 📷 **Camera Input** + 📂 **Image Upload**
